@@ -8,7 +8,6 @@ public class RemoveElement {
         for(int i = 0; i < tamanhoArray; i++){
             if(nums[i] != val){
                 nums[prox++] = nums[i];
-                continue;
             }
         }
         return prox;
