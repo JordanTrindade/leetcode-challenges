@@ -1,6 +1,4 @@
-package org.com.challenges.easy;
-
-import java.util.Arrays;
+package org.com.challenges.easy.arrays;
 
 public class LongestCommonPrefix {
 

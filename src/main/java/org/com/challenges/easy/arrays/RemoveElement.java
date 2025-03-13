@@ -1,4 +1,4 @@
-package org.com.challenges.easy;
+package org.com.challenges.easy.arrays;
 
 public class RemoveElement {
     public static int removeElement(int[] nums, int val) {

@@ -1,4 +1,4 @@
-package org.com.challenges.easy;
+package org.com.challenges.easy.arrays;
 
 import java.util.*;
 
