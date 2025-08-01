@@ -1,4 +1,4 @@
-package org.com.challenges.easy.twoPointer;
+package org.com.challenges.twoPointer.easy;
 
 public class IsSubsequence {
     public static boolean isSubsequence(String s, String t) {

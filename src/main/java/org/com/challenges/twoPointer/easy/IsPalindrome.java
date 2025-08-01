@@ -1,4 +1,4 @@
-package org.com.challenges.easy.twoPointer;
+package org.com.challenges.twoPointer.easy;
 
 public class IsPalindrome {
     public static boolean isPalindrome(String s) {

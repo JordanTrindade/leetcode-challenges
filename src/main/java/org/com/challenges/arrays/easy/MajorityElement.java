@@ -1,4 +1,4 @@
-package org.com.challenges.easy.arrays;
+package org.com.challenges.arrays.easy;
 
 import java.util.HashMap;
 

@@ -1,7 +1,4 @@
-package org.com.challenges.medium;
-
-import java.util.HashMap;
-import java.util.Map;
+package org.com.challenges.arrays.medium;
 
 public class RemoveDuplicates {
     public static int removeDuplicates(int[] nums) {
